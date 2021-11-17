@@ -10,8 +10,8 @@ nav{
 
 .text-about{
     padding-top:0%;
-    padding-left: 300px;
-    padding-right: 500px;
+    padding-left: 400px;
+    padding-right: 400px;
     text-align: justify;
 }
 
@@ -29,4 +29,41 @@ H1{
     padding-top: 200px;
     padding-left: 150px;
     font-size: 4rem;
+}
+
+.card img{
+
+    height: 250px;
+    width: 100%
+
+    
+}
+
+.col{
+   
+    padding-top: 2%;
+    padding-left: 15%;
+   
+}
+
+.col2{
+    padding-top: 2%;
+    padding-right: 15%;
+}
+
+.work-edge{
+    background-image: url("https://simplifaster.com/wp-content/uploads/2018/10/Power-Lifting.jpg");
+
+}
+
+.work-edge h1{
+    color: black;
+    padding:8% 23%;
+    padding-top: 10%;
+}
+
+h3{
+    padding: 3% 35%;
+    color: black;
+
 }
